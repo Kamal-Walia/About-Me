@@ -26,3 +26,4 @@ I've been doing software since I was a child, I love to learn about how things w
 * MySql
 * SQL Server
 * Oracle
+[My CV.](My Resume.pdf)
