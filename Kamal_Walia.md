@@ -26,7 +26,3 @@ I've been doing software since I was a child, I love to learn about how things w
 * MySql
 * SQL Server
 * Oracle
-
-# Want to know more?
-
-[My CV.](https://github.com/Kamal-Walia/About-Me/blob/master/My%20Resume.pdf)
