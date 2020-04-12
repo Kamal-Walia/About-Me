@@ -30,5 +30,3 @@ I'm a Curious Developer who loves to learn new things and apply learnings on rea
 # Want to know more?
 
 [LinkedIn.](https://www.linkedin.com/in/kamal1709/)
-
-https://kamal-walia.github.io/
