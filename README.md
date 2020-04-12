@@ -5,7 +5,7 @@ Hi :wave:
 
 I'm Kamal Walia, a Software Engineer.
 
-I've been doing software since I was a child, I love to learn about how things work and simplify things with technology. I love to share time with developer communities and events.
+I'm a Curious Developer who loves to learn new things and apply learnings on real-world problems. I love to share time with developer communities and events.
 
 # Skills
 ## Programming Languages:
