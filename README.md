@@ -46,4 +46,4 @@ https://adplist.org/mentors/kamal-walia
 
 # Want to know more?
 
-[LinkedIn.](https://www.linkedin.com/in/kamalwalia/)
+[LinkedIn](https://www.linkedin.com/in/kamalwalia/)
