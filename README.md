@@ -5,28 +5,42 @@ Hi :wave:
 
 I'm Kamal Walia, a Software Engineer.
 
-I'm a Curious Developer who loves to learn new things and apply learnings on real-world problems. I love to share time with developer communities and events.
+Results-driven and highly skilled software engineer with 4+ years of experience in developing innovative and efficient solutions. Proficient in full-stack development, Committed to staying updated with the latest industry trends and technologies. Seeking new challenges to continue contributing to cutting-edge projects and driving technological advancements.
+
+I also love to be a part of developer communities and participate in developer events.
+
+Available for Mentoring, Career Guidance, and Resume Review - You Can Book A Call Using The Following Links:- 
+https://meetpro.club/kamalwalia
+https://topmate.io/kamalwalia
+https://adplist.org/mentors/kamal-walia
+
 
 # Skills
 ## Programming Languages:
 * JavaScript
-* Python
 * Java
-* C#
-* Php
 * C++
 * C
+* Php
+* C#
+* Python
+
+
+## Tech Stacks  
+* MERN
+* ReactJS + Java Spring
+  
 
 ## Frameworks
 * React-Native
-* MERN
+
 
 ## Database:
-* MongoDB
-* MySql
-* SQL Server
 * Oracle
+* MySql
+* MSSQL
+* MongoDB
 
 # Want to know more?
 
-[LinkedIn.](https://www.linkedin.com/in/kamal1709/)
+[LinkedIn.](https://www.linkedin.com/in/kamalwalia/)
