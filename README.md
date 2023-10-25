@@ -2,9 +2,10 @@
 
 Hi :wave: 
 
-I'm Kamal Walia, a Software Engineer.
-
 # About Me
+
+I'm Kamal Walia,
+
 I'm a Results-driven and highly skilled software engineer with 4+ years of experience in developing innovative and efficient solutions. Proficient in full-stack development, Committed to staying updated with the latest industry trends and technologies. Seeking new challenges to continue contributing to cutting-edge projects and driving technological advancements.
 
 I also love to be a part of developer communities and participate in developer events.
